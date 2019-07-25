@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    tools:context=".MainActivity">
+    <TextView
+        android:text="A"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="B"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="C"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="D"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="E"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="F"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="G"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="H"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="I"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="J"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="K"
+        style="@style/txtAbjad"/>
+    <TextView
+        android:text="L"
+        style="@style/txtAbjad"/>
+</GridLayout>
